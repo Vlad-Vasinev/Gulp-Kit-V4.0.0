@@ -4,7 +4,7 @@
  -  Serial number: `70AD-C338`
  -  create a tree: `tree /f > tree.txt`
 ```
-C:.
+Gulp-Kit-V4.0.0
 │   gulpfile.js
 │   package-lock.json
 │   package.json
