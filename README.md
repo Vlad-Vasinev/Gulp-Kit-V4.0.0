@@ -1,7 +1,7 @@
 ﻿# Gulp-Kit-V4.0.0
 
 ## Folders structure
- -  create a tree: `tree /f > tree.txt`
+ -  to create a tree: `tree /f > tree.txt`
 ```
 Gulp-Kit-V4.0.0
 │   gulpfile.js
