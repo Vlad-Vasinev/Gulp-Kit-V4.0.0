@@ -2,6 +2,7 @@
 
 ﻿#﻿#Folders structure
   ﻿-Serial number: 70AD-C338
+```
 C:.
 │   gulpfile.js
 │   package-lock.json
@@ -43,5 +44,6 @@ C:.
     │           
     └───sass
             main.sass
+```
             
             
