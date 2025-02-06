@@ -1,7 +1,8 @@
 ﻿# Gulp-Kit-V4.0.0
 
 ## Folders structure
- -  Serial number: 70AD-C338
+ -  Serial number: `70AD-C338`
+ -  create a tree: `tree /f > tree.txt`
 ```
 C:.
 │   gulpfile.js
